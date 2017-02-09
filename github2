@@ -1,0 +1,100 @@
+<!DOCTYPE HTML>
+<HTML>
+<head></head>
+<P>
+
+
+What is the difference between a Library and a Framework?
+
+
+A Library has been built by web developers so that the same code does not have to be written over again.  The developer is in control of the library and decides when the code is called.  The library can be used for different coding languages as well.  A framework controls when the code is called.
+
+
+What Library?
+I have chosen paper.js as my Library.
+
+Why was paper.js created?
+Paper.js was created by Jürg Lehni & Jonathan Puckey, and distributed under the permissive MIT License (Paperjs.org, 2017).
+
+Paper.js is based a library and is compatible with Scriptographer, the scripting environment for Adobe Illustrator; it has taken more than ten years of development.  It was created to allow developers to work with vector graphics. It was created to give interactive behavior to projects.  
+
+
+Who uses the Library?
+Paper.js is used by web developers to create vector based images for websites.  Developers can use it to create interactive SVG elements for use within HTML5.  It is also used by gamers, artists, in fact anyone who creates images online.
+
+
+
+
+What has been built using the Library?
+Many pieces of interactive art, the images are not only scalable but the user can also manipulate the vector images as they would in Illustrator.  There are control points and handles to manipulate the shapes in multiple ways.  The user can also draw straight on to the canvas.  It crosses over between art and technology (Paperjs.org, 2017).
+
+
+What are the main feature benefits of the Library?
+Paper.js is an open sourced, vector graphics, scripting library, able to convert vector graphics into code. It can animate vector graphics on the HTML5 canvas (Paperjs.org, 2017).
+
+Why is it popular?
+It allows developers to create pre-defined shapes, so less coding.  The ability to convert flat vector graphics into code to create shapes from Illustrator saves time and allows web designers more scope to create the animations (Shah, 2017).
+
+What are the risks?
+The risks are low, at the time of writing paper.js has fifty-five contributors and seven hundred and forty-eight forks.  Issues appear to be sorted prompty and it is has an active community.
+
+
+
+
+
+
+
+
+
+My framework is Backbone.js (Backbone.js.org, 2017).
+
+
+
+
+
+
+
+
+
+
+
+Why was the Framework created?
+Backbone.js is a structure for your project, it is a javaScript structure that helps the developer organize their code (backbone.js?, 2017).  It was designed to allow developers the freedom to design their applications to their own specification, rather than design their site to fit to a framework’s default behaviour.
+
+Who created it and why?
+Jeremy Ashkenas created backbone.js. it was forked in 2011 by Yehuda Katz, a core contributor to the popular jQuery and Ruby on Rails projects (McLaughlin et al., 2017).
+
+Who uses the Framework and what have they built with it?
+
+USA Today uses backbone (Backbonejs.org, 2017) to keep the codebase easy to use and efficient. Many other websites use it including Pinterest, Flixster, AirBNB and others .
+
+(McLaughlin et al., 2017)
+
+Rdio uses backbone for dynamic loading and rendering of the application to prevent the users music being interrupted (Backbonejs.org, 2017).
+
+
+
+What are the main features and benefits of the Framework?
+
+Data becomes a model, when user interaction causes a change in the model, the model triggers a change event and the model changes itself, it does not need to look for an elements id for a change to be made (Backbonejs.org, 2017).
+
+Why is it popular?
+It is popular because it detangles all the code, and for rich front end content gives a structured approach (Backbonejs.org, 2017).
+
+
+What are the risks from a developer’s point of view?
+
+Looking on GitHub the code is updated regularly, it has nearly three hundred contributors and has been forked over five and a half thousand times.  It is a popular framework used by extremely large organisations.
+
+
+References
+backbone.js?, W. (2017). What is the purpose of backbone.js?. [online] Stackoverflow.com. Available at: http://stackoverflow.com/questions/5418369/what-is-the-purpose-of-backbone-js [Accessed 8 Feb. 2017].
+Backbonejs.org. (2017). Backbone.js. [online] Available at: http://backbonejs.org/ [Accessed 8 Feb. 2017].
+Backbonejs.org. (2017). Backbone.js. [online] Available at: http://backbonejs.org/#examples [Accessed 9 Feb. 2017].
+McLaughlin, R., Hatami, M., Garcia, T., Shaked, U. and Shaked, U. (2017). AngularJS vs. Backbone.js vs. Ember.js. [online] Airpair.com. Available at: https://www.airpair.com/js/javascript-framework-comparison [Accessed 9 Feb. 2017].
+Paperjs.org. (2017). Paper.js — Features. [online] Available at: http://paperjs.org/features/ [Accessed 8 Feb. 2017].
+Shah, A. (2017). My Favorite 5 JavaScript Canvas Libraries - HTML5 • Crunchify. [online] Crunchify. Available at: http://crunchify.com/my-favorite-5-javascript-canvas-libraries/ [Accessed 8 Feb. 2017].
+Shora, A. (2017). The Easy Paper.js Tutorial, building flat animated shapes with @PaperJS. [online] Andyshora.com. Available at: http://andyshora.com/easy-paper-js-tutorial.html [Accessed 8 Feb. 2017].
+
+</P>
+</HTML>
